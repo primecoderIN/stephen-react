@@ -1,0 +1,9 @@
+.season__display {
+  padding: 5px 20px;
+  display: flex;
+  align-items: center;
+}
+
+.season-icon {
+  font-size: 90px;
+}
